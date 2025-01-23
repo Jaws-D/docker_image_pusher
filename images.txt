@@ -1,1 +1,1 @@
---platform=linux/arm/v7 cloudflare/cloudflared
+--platform=linux/arm/v7 mzz2017/v2raya
