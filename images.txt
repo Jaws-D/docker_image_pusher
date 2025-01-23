@@ -1,1 +1,1 @@
---platform=linux/arm/v7 mzz2017/v2raya
+--platform=linux/arm/v7 whyour/qinglong
