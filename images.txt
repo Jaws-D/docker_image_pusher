@@ -1,1 +1,1 @@
---platform=linux/arm/v7 teddysun/xray
+--platform=linux/arm/v7 jeessy/ddns-go
